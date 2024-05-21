@@ -2,31 +2,30 @@
 **Models to Implement: MobileNetV2,ResNet50,DenseNet121**
 
 # MobileNetV2
-Loss: 1.0186352729797363
+Loss: 0.8419352769851685
 
-Accuracy: 0.6407407522201538
+Accuracy: 0.6888889074325562
 
-Precision: 0.748110830783844
+Precision: 0.7735849022865295
 
-Recall: 0.550000011920929
+Recall: 0.6074073910713196
 
-F1 Score: 0.633938108077059
+F1 Score: 0.680497913753766
 
 
 ![image](https://github.com/J0yBiswas/CSE-366-3---2021-2-60-019/blob/9ef2f7ab013fd30c843f170549b6a87711b91428/Assignment%203/image.png?raw=true)
 
 
 # ResNet50
-Loss: 1.0186352729797363
+Loss: 1.0801033973693848
 
-Accuracy: 0.6407407522201538
+Accuracy: 0.6277777552604675
 
-Precision: 0.748110830783844
+Precision: 0.700507640838623
 
-Recall: 0.550000011920929
+Recall: 0.5111111402511597
 
-F1 Score: 0.633938108077059
-
+F1 Score: 0.5910064529399984
 
 ![image](https://github.com/J0yBiswas/CSE-366-3---2021-2-60-019/blob/118bc91c4ae2696fba70931af865ec90fcc24c93/Assignment%203/pic2.png?raw=true)
 
